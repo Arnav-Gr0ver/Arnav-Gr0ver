@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arnav-gr0ver/]) 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Arnav-Gr0ver) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arnav-gr0ver/]) 
 
 # 💫 About Me:
 🛠️ CS @ Purdue University<br>🌱 <br>🔭 <br>⚡ <br>🤝<br>💬 <br>
