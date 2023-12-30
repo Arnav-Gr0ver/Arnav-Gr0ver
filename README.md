@@ -1,8 +1,9 @@
 # 💫 About Me
-🛠️ CS @ Purdue University
-🌱 s
-🔭 s
-⚡ s
+🛠️ CS @ Purdue University </br>
+🌱 Exploring new technologies and learning every day </br>
+⚡ Passionate about software engineering and problem-solving </br>
+🤝 Open to collaboration on interesting projects </br>
+💬 Let's connect and discuss technology, coding, and more! </br>
 
 # Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arnav-Gr0ver&theme=great-gatsby&hide_border=false)<br/>
