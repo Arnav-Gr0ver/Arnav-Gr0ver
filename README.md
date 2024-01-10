@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=Arnav-Gr0ver) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_1.61803_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arnav-gr0ver/]) 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Arnav-Gr0ver) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_1.61803_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arnav-gr0ver/]) something
 
 ![](https://github-readme-stats.vercel.app/api?username=Arnav-Gr0ver&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arnav-Gr0ver&theme=great-gatsby&hide_border=false)<br/>
