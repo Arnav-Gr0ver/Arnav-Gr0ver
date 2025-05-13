@@ -2,8 +2,8 @@
 
 - **April 2025**  
   *Paris Machine Learning Group x FinRL - S11E8: Reinforcement Learning in Finance*
-  An introduction to reinforcement learning in finance, covering the FinRL library’s features, how it simplifies RL applications, and a hands‑on walkthrough of training an RL agent  
-  [🎥 Watch the session](https://www.youtube.com/watch?v=tvaNIU91rNc&t=336s/)
+  An introduction to RL in finance, covering the FinRL library’s features, how it simplifies RL applications, and a hands‑on walkthrough of training an RL agent  
+  [🎥 Watch the session](https://www.youtube.com/watch?v=tvaNIU91rNc&t/)
 
 - **March 2025**  
   *Technical Committee Member, FinRL Contest 2025*  
