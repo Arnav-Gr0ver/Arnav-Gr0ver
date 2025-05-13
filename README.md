@@ -3,7 +3,7 @@
 - **April 2025**  
   **S11E8: Reinforcement Learning in Finance – FinRL Library & Contest Overview**  
   An introduction to reinforcement learning in finance, covering the FinRL library’s features, how it simplifies RL applications, and a hands‑on walkthrough of training an RL agent
-  [🎥 Watch the session](https://www.youtube.com/watch?v=tvaNIU91rNc&t=336s) :contentReference[oaicite:0]{index=0}
+  [🎥 Watch the session](https://www.youtube.com/watch?v=tvaNIU91rNc&t=336s/)
 - **March 2025**  
   *Technical Committee Member, FinRL Contest 2025*  
   Contributed to challenge design and evaluation for the [2025 FinRL Contest](https://open-finance-lab.github.io/FinRL_Contest_2025/), advancing financial RL research
