@@ -28,7 +28,7 @@
 ## Links
 
 - [🎓 Google Scholar](https://scholar.google.com/citations?user=UcFqXasAAAAJ)  
-- [🔬 ResearchGate]([https://www.researchgate.net/profile/Arnav-Grover](https://www.researchgate.net/profile/Arnav-Grover-6?ev=hdr_xprf))  
+- [🔬 ResearchGate](https://www.researchgate.net/profile/Arnav-Grover-6?ev=hdr_xprf)  
 - [📚 arXiv](https://arxiv.org/search/?searchtype=author&query=Arnav+Grover)  
 - [🧾 Papers with Code](https://paperswithcode.com/search?q=author%3AArnav+Grover)  
 
