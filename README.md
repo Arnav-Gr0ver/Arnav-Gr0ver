@@ -1,5 +1,5 @@
 ---
-## 🗞️ Talks & News
+## Talks & News
 - **April 2025**  
   **S11E8: Reinforcement Learning in Finance – FinRL Library & Contest Overview**  
   An introduction to reinforcement learning in finance, covering the FinRL library’s features, how it simplifies RL applications, and a hands‑on walkthrough of training an RL agent
@@ -12,13 +12,13 @@
   Purdue University's Premier AI × Startup hackathon
   [🔗 View More Here]([https://www.linkedin.com/feed/update/urn:li:activity:7304184969428434944/](https://catapult.framer.website/))
 ---
-## 📚 Publications
+## Publications
 - **FinRLlama: A Solution to LLM-Engineered Signals Challenge at FinRL Contest 2024**  
   *Arnav Grover*  
   _arXiv preprint arXiv:2502.01992, 2025_  
   [📄 Read on arXiv](https://arxiv.org/abs/2502.01992)
 ---
-## 🔗 Links
+## Links
 - [🎓 Google Scholar](https://scholar.google.com/citations?user=UcFqXasAAAAJ)   
 - [🔬 ResearchGate](https://www.researchgate.net/profile/Arnav-Grover)  
 - [📚 arXiv](https://arxiv.org/search/?searchtype=author&query=Arnav+Grover)  
