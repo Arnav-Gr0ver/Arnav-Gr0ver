@@ -2,18 +2,16 @@
 
 - **April 2025**  
   *Paris Machine Learning Group x FinRL - Reinforcement Learning in Finance*\
-  An intro to RL in finance, covering FinRL library’s features, and a hands‑on walkthrough of training an RL agent  
-  [🎥 Watch the session](https://www.youtube.com/watch?v=tvaNIU91rNc&t/)
+  An intro to RL in finance, covering FinRL library, including a RL agent training walkthrough [🎥 Watch the session](https://www.youtube.com/watch?v=tvaNIU91rNc&t/)
 
 - **March 2025**  
   *Technical Committee Member, FinRL Contest 2025*  
-  Contributed to challenge design and evaluation for the [2025 FinRL Contest](https://open-finance-lab.github.io/FinRL_Contest_2025/), advancing financial RL research
+  Contributed to challenge design and evaluation for the [FinRL Contest 2025](https://open-finance-lab.github.io/FinRL_Contest_2025/), advancing financial RL research
 
 - **February 2025**  
   *Organized Catapult 2025 Hackathon*  
-  Purdue University's premier AI × Startup hackathon  
-  [🔗 View More Here](https://catapult.framer.website/)
-
+  Purdue University's premier AI × Startup hackathon; [🔗 View More Here](https://catapult.framer.website/)
+  
 ---
 
 ## Publications
